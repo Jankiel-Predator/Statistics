@@ -12,30 +12,30 @@ Each notebook in this repository is meticulously crafted, providing:
 
 Here's a breakdown of the notebooks included in this repository:
 
-1. **01. Introduction.ipynb**
-2. **02. Sampling Methods.ipynb**
-3. **03. Visualizing Data.ipynb**
-4. **04. Descriptive Statistics.ipynb**
-5. **05. Correlation.ipynb**
-6. **06. Linear Regression.ipynb**
-7. **07. Multiple Linear Regression.ipynb**
-8. **08. Logistic Regression.ipynb**
-9. **09. Examining Normality.ipynb**
-10. **10. Central Limit Theorem.ipynb**
-11. **11. Properties of Probability Estimation.ipynb**
-12. **12. Bootstrap.ipynb**
-13. **13. Student's t-Test.ipynb**
-14. **14. Single Sample Population Mean Test.ipynb**
-15. **15. One Sample Proportion Test.ipynb**
-16. **16. Standard Vs Welch's t-Test.ipynb**
-17. **17. Paired t-Test.ipynb**
-18. **18. Independent Samples Proportions Z-test.ipynb**
-19. **19. Density & Distribution Functions.ipynb**
-20. **20. Chi-Squared Goodness of Fit Test.ipynb**
-21. **21. Kolmogorov-Smirnov Test.ipynb**
-22. **22. Tests on Normality.ipynb**
-23. **23. Relationship Between Categorical Variables.ipynb**
-24. **24. Association Between Two Binary Variables.ipynb**
+1. **Introduction**
+2. **Sampling Methods**
+3. **Visualizing Data**
+4. **Descriptive Statistics**
+5. **Correlation**
+6. **Linear Regression**
+7. **Multiple Linear Regression**
+8. **Logistic Regression**
+9. **Examining Normality**
+10. **Central Limit Theorem**
+11. **Properties of Probability Estimation**
+12. **Bootstrap**
+13. **Student's t-Test**
+14. **Single Sample Population Mean Test**
+15. **One Sample Proportion Test**
+16. **Standard Vs Welch's t-Test**
+17. **Paired t-Test**
+18. **Independent Samples Proportions Z-test**
+19. **Density & Distribution Functions**
+20. **Chi-Squared Goodness of Fit Test**
+21. **Kolmogorov-Smirnov Test**
+22. **Tests on Normality**
+23. **Relationship Between Categorical Variables**
+24. **Association Between Two Binary Variables**
 
 ## 🌟 Highlights
 
