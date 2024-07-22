@@ -8,6 +8,18 @@ Each notebook in this repository is meticulously crafted, providing:
 - **Rich Descriptions**: Clear objectives, theoretical background, and conclusions for each experiment.
 - **Beautiful Visualizations**: A wide range of charts and visual aids that are not only informative but also aesthetically pleasing.
 
+## 🌟 Highlights
+
+- **Engaging Visuals**: Each notebook is packed with charts and graphs that are not only functional but also crafted to be visually appealing.
+- **Comprehensive Coverage**: From basic concepts to advanced hypothesis testing methods, this repository covers a broad spectrum of topics.
+- **Educational Value**: Detailed explanations and clear objectives make it easy to understand the purpose and outcomes of each experiment.
+
+## 🔍 Explore and Learn
+
+Dive into the notebooks to explore various statistical methods and hypothesis tests. Whether you're a beginner looking to learn the basics or an advanced user seeking to deepen your understanding, this repository has something for everyone.
+
+Happy Learning! 🎓
+
 ## 📁 Repository Contents
 
 Here's a breakdown of the notebooks included in this repository:
@@ -79,18 +91,6 @@ Here's a breakdown of the notebooks included in this repository:
 25. **Analysis of Variance (ANOVA)**
     - Conducting one-factor ANOVA
     - Interpreting results
-
-## 🌟 Highlights
-
-- **Engaging Visuals**: Each notebook is packed with charts and graphs that are not only functional but also crafted to be visually appealing.
-- **Comprehensive Coverage**: From basic concepts to advanced hypothesis testing methods, this repository covers a broad spectrum of topics.
-- **Educational Value**: Detailed explanations and clear objectives make it easy to understand the purpose and outcomes of each experiment.
-
-## 🔍 Explore and Learn
-
-Dive into the notebooks to explore various statistical methods and hypothesis tests. Whether you're a beginner looking to learn the basics or an advanced user seeking to deepen your understanding, this repository has something for everyone.
-
-Happy Learning! 🎓
 
 ---
 
