@@ -55,9 +55,9 @@ Feel free to reach out if you have any questions or suggestions. Contributions a
 
 ---
 
-[![GitHub license](https://github.com/Jankiel-Predator/Statistics/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Jankiel-Predator/statistics-hypothesis-testing-python)](https://github.com/Jankiel-Predator/statistics-hypothesis-testing-python/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Jankiel-Predator/statistics-hypothesis-testing-python)](https://github.com/Jankiel-Predator/statistics-hypothesis-testing-python/network)
+[![GitHub license](https://img.shields.io/github/license/Jankiel-Predator/Statistics)](https://github.com/Jankiel-Predator/Statistics/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Jankiel-Predator/Statistics)](https://github.com/Jankiel-Predator/Statistics/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Jankiel-Predator/Statistics)](https://github.com/Jankiel-Predator/Statistics/network)
 
 ---
 
