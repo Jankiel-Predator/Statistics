@@ -1,10 +1,5 @@
 # 📊 Statistics & Hypothesis Testing in Python using Jupyter Notebooks
 
----
-layout: default
-title: "About"
----
-
 Welcome to the **Statistics & Hypothesis Testing in Python** repository! This collection of Jupyter Notebooks offers an in-depth exploration of various statistical concepts and hypothesis testing techniques, all presented in a visually appealing and comprehensive manner.
 
 ## 📚 Notebooks Overview
