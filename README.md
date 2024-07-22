@@ -36,6 +36,7 @@ Here's a breakdown of the notebooks included in this repository:
 22. **Tests on Normality**
 23. **Relationship Between Categorical Variables**
 24. **Association Between Two Binary Variables**
+25. **Analysis of Variance (ANOVA)**
 
 ## 🌟 Highlights
 
