@@ -13,30 +13,71 @@ Each notebook in this repository is meticulously crafted, providing:
 Here's a breakdown of the notebooks included in this repository:
 
 1. **Introduction**
+   - Understanding dataset structure
+   - Selecting subsets of columns
+   - Constructing histograms and dotplots
 2. **Sampling Methods**
+   - Applying sampling methods
+   - Evaluating sample representativeness
 3. **Visualizing Data**
+   - Creating Bar Charts, Pie Charts, Stem-And-Leaf Plots, Histograms
 4. **Descriptive Statistics**
+   - Determining numerical characteristics
+   - Constructing boxplots
 5. **Correlation**
+   - Generating scatterplots
+   - Computing correlation coefficients
 6. **Linear Regression**
+   - Performing correlation and regression analysis
 7. **Multiple Linear Regression**
+   - Constructing and evaluating models
+   - Interpreting coefficients
+   - Diagnosing multicollinearity
 8. **Logistic Regression**
+   - Implementing logistic regression
+   - Performing classification
 9. **Examining Normality**
+   - Assessing normality using QQ-plots
 10. **Central Limit Theorem**
+    - Investigating the Central Limit Theorem
+    - Using uniform and exponential distributions
 11. **Properties of Probability Estimation**
+    - Exploring probability estimation
 12. **Bootstrap**
+    - Learning the bootstrap method
 13. **Student's t-Test**
+    - Applying Student's t-distribution
+    - Comparing sample means
 14. **Single Sample Population Mean Test**
+    - Testing population means
+    - Assessing evidence against null hypotheses
 15. **One Sample Proportion Test**
+    - Conducting one-sample proportion tests
+    - Analyzing model data
 16. **Standard Vs Welch's t-Test**
+    - Testing means for two samples
+    - Comparing variances
 17. **Paired t-Test**
+    - Conducting paired t-tests
+    - Assessing population mean differences
 18. **Independent Samples Proportions Z-test**
+    - Testing differences in proportions
 19. **Density & Distribution Functions**
+   - Comparing empirical and theoretical probability functions
 20. **Chi-Squared Goodness of Fit Test**
+    - Understanding chi-square goodness of fit
 21. **Kolmogorov-Smirnov Test**
+    - Applying Kolmogorov-Smirnov tests
 22. **Tests on Normality**
+    - Assessing sample data normality
+    - Using Q-Q plots and various tests
 23. **Relationship Between Categorical Variables**
+    - Testing relationships using Chi-squared and Fisher's Exact Test
 24. **Association Between Two Binary Variables**
+    - Testing and measuring associations
 25. **Analysis of Variance (ANOVA)**
+    - Conducting one-factor ANOVA
+    - Interpreting results
 
 ## 🌟 Highlights
 
