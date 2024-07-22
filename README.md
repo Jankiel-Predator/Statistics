@@ -16,6 +16,7 @@ Here's a breakdown of the notebooks included in this repository:
    - Understanding dataset structure
    - Selecting subsets of columns
    - Constructing histograms and dotplots
+
 2. **Sampling Methods**
    - Applying sampling methods
    - Evaluating sample representativeness
@@ -63,7 +64,7 @@ Here's a breakdown of the notebooks included in this repository:
 18. **Independent Samples Proportions Z-test**
     - Testing differences in proportions
 19. **Density & Distribution Functions**
-   - Comparing empirical and theoretical probability functions
+    - Comparing empirical and theoretical probability functions
 20. **Chi-Squared Goodness of Fit Test**
     - Understanding chi-square goodness of fit
 21. **Kolmogorov-Smirnov Test**
